@@ -9,7 +9,7 @@ class NowPlaying extends Component {
                 </div>
                 <div className="card-deck">
                     <div className="card shadow-lg bg-white rounded">
-                        <img src="Images/image-2.jpg" className="rounded" alt="" ></img>
+                        <img src="image-2.jpg" className="rounded" alt="" ></img>
                         <div className="discription">
                             <h5>Replicas</h5>
                             <h5>JANUARY 11</h5>
@@ -37,7 +37,7 @@ class NowPlaying extends Component {
                     </div>
 
                     <div className="card shadow-lg bg-white rounded" >
-                        <img src="Images/image-4.jpg" className="rounded" alt="" ></img>
+                        <img src="image-4.jpg" className="rounded" alt="" ></img>
                         <div className="discription">
                             <h5>Avangers EndGame</h5>
                             <h5>APRIL 24</h5>
@@ -65,7 +65,7 @@ class NowPlaying extends Component {
                     </div>
 
                     <div className="card shadow-lg bg-white rounded">
-                        <img src="Images/image-2.jpg" className="rounded" alt="" ></img>
+                        <img src="image-2.jpg" className="rounded" alt="" ></img>
                         <div className="discription">
                             <h5>Replicas</h5>
                             <h5>JANUARY 11</h5>
