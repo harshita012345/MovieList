@@ -9,7 +9,7 @@ class Upcoming extends Component {
                 </div>
                 <div className="card-deck mb-3">
                     <div className="card shadow-lg bg-white rounded" >
-                        <img src="Images/image-5.jpg" className="rounded" alt="" ></img>
+                        <img src="image-5.jpg" className="rounded" alt="" ></img>
                         <div className="discription">
                             <h5>Jocker</h5>
                             <h5>OCTOBER 4</h5>
@@ -37,7 +37,7 @@ class Upcoming extends Component {
                     </div>
 
                     <div className="card shadow-lg bg-white rounded" >
-                        <img src="Images/image-6.jpg" className="rounded" alt="" ></img>
+                        <img src="image-6.jpg" className="rounded" alt="" ></img>
                         <div className="discription">
                             <h5>Archer</h5>
                             <h5>OCTOBER 20</h5>
@@ -64,7 +64,7 @@ class Upcoming extends Component {
                         </div>
                     </div>
                     <div className="card shadow-lg bg-white rounded">
-                        <img src="Images/image-3.jpg" className="rounded" alt="" ></img>
+                        <img src="image-3.jpg" className="rounded" alt="" ></img>
                         <div className="discription">
                             <h5>Perfume</h5>
                             <h5>COMING SOON</h5>
@@ -94,7 +94,7 @@ class Upcoming extends Component {
 
                 <div className="card-deck mb-3">
                     <div className="card shadow-lg bg-white rounded col-4">
-                        <img src="Images/image-1.jpg" className="rounded" alt="" ></img>
+                        <img src="image-1.jpg" className="rounded" alt="" ></img>
                         <div className="discription">
                             <h5>After</h5>
                             <h5>NOVEMBER 28</h5>
